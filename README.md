@@ -1,6 +1,6 @@
 # 🚀 Axum Backend Learning Project
 
-A basic Axum web server demonstrating fundamental HTTP concepts and RESTful API patterns. Built for learning backend development with Rust.
+Axum web server demonstrating fundamental HTTP concepts and RESTful API patterns. Built for learning backend development with Rust.
 
 ## 📚 What This Covers
 
